@@ -1,3 +1,6 @@
-Blue: What is the colour of the sky?
-Green: What is the colour of grass?
-END
+Yellow:What is the colour of the sun
+Green:What is the colour of grass
+Brown:What is the colour of dirt
+Blue:What is the colour of the sky
+Clear:What is the colour of rain
+Black:What it the colour of roads
