@@ -4,3 +4,4 @@ Brown:What is the colour of dirt
 Blue:What is the colour of the sky
 Clear:What is the colour of rain
 Black:What it the colour of roads
+7:How many days in a week
