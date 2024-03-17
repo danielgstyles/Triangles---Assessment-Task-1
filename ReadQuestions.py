@@ -1,5 +1,8 @@
+#Opens the Questions.txt file so it can be read into the program
 file1 = open("Questions.txt", "r+") 
+#Loads the Questions and Answers from the Questions.txt file into a list caller file1
 list = file1.readlines()
+#Closes the file. You should always cloase your files once you are finished with it
 file1.close
 
 def AddQuestion():
