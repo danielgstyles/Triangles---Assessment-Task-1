@@ -28,6 +28,9 @@ def RightAngleTest(S1, S2, S3):
         print("\n")
         TriangleType = "Right Angle"
 
+def DrawTriangle():
+    print()
+
 #Main Program
 print("\n")
 print("\n")
@@ -35,9 +38,7 @@ print("Welcom to the Triangle Idetification Program")
 print("\n")
 print("Writen by D Styles 2024 \n")
 
-color('red')
-fillcolor('yellow')
-forward(100)
+
 
 NewTriangle = True
 
