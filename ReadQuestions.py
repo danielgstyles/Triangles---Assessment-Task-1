@@ -45,13 +45,13 @@ def AskingQuestions(SubList, SubLen):
             print("Incorrect")
 
     #print(i)
-    print(score)
+    print(f"Your Score is {score}")
 
 Len = len(list)
 
 
 #Main Program - Menu Menu
-AddQuestion()
-#AskingQuestions(list, Len)
+#AddQuestion()
+AskingQuestions(list, Len)
 
 
